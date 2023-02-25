@@ -22,7 +22,7 @@ export default function Root() {
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
         <Link rel="shortcut icon" href="/favicon.svg" type="image/x-icon" />
       </Head>
-      <Body>
+      <Body class="bg-c-creamy">
         <Suspense>
           <ErrorBoundary>
             <Routes>

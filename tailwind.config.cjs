@@ -8,7 +8,11 @@ module.exports = {
     extend: {
       colors: {
         c: {
-          carbon: '#0C0C0D',
+          creamy: '#F7E9DC',
+          orange: '#EB755D',
+          cyan: '#76B5BC',
+          brown: '#392314',
+          dust: '#A99E99',
         },
       },
     },
